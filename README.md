@@ -1,5 +1,9 @@
 # Security Risk Assessment and Network Hardening Proposal
 
+<div align="right">
+<a href="./README-PT.md">Ver em Português 🇧🇷</a>
+</div>
+
 ## Project Overview
 
 A practical case study developed within the [Google Cybersecurity Professional Certificate](https://www.coursera.org/google-certificates/cybersecurity-certificate), focused on risk assessment following a security incident. This project's objective was to inspect the network of an organization that suffered a data breach, identify critical vulnerabilities, and propose an effective hardening plan to prevent future attacks.
