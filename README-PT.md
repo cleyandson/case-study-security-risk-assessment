@@ -1,5 +1,9 @@
 # Avaliação de Risco e Proposta de Hardening de Rede
 
+<div align="right">
+<a href="./README.md">Read in English 🇺🇸</a>
+</div>
+
 ## Visão Geral do Projeto
 
 Um estudo de caso prático, desenvolvido no contexto do [Certificado Profissional de Cibersegurança do Google](https://www.coursera.org/google-certificates/cybersecurity-certificate), focado na avaliação de riscos após um incidente de segurança. O objetivo do projeto foi inspecionar a rede de uma organização que sofreu uma violação de dados, identificar as vulnerabilidades críticas e propor um plano de *hardening* eficaz para prevenir futuros ataques.
